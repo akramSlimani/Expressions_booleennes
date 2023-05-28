@@ -1,5 +1,3 @@
-package eb;
-
 public class Eb {
 
 	private Noeud racine;
@@ -67,19 +65,6 @@ public class Eb {
 		res.racine.setNoeudDroit(eb.getRacine());
 		return res;
 	}
-
-	/*
-	 * public static String affiche(Eb eb) {
-	 * 
-	 * if(estVide(eb)) { return "Eb vide !"; }else if(eb.racine.getContenu() == 'v')
-	 * { return " "+ eb.racine.getNoeudDroit() + " v" + eb.racine.getNoeudGauche()
-	 * +" "; }else if(eb.racine.getContenu() == '^') { return " "+
-	 * eb.racine.getNoeudDroit() + " ^" + eb.racine.getNoeudGauche() +" "; }else
-	 * if(eb.racine.getContenu() == '!') { return " ! " +
-	 * eb.racine.getNoeudGauche()+ " "; } return null;
-	 * 
-	 * }
-	 */
 
 	/* méthode d'affichage */
 	public String afficher() {
