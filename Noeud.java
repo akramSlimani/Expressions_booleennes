@@ -1,5 +1,3 @@
-package eb;
-
 public class Noeud {
 
     protected char contenu;
