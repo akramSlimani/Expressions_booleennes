@@ -22,5 +22,4 @@ Le projet démontre des exemples d'utilisation de la classe `Eb` en créant diff
 
 Ce projet est une implémentation basique des expressions booléennes et peut être utilisé comme base pour des applications plus avancées impliquant la manipulation et l'évaluation d'expressions logiques.
 
-N'hésitez pas à explorer le code et à exécuter les exemples pour mieux comprendre son fonctionnement.
 
